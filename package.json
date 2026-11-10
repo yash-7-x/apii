@@ -1,0 +1,19 @@
+
+{
+  "name": "product-rest-api",
+  "version": "1.0.0",
+  "description": "A REST API built using Node.js native HTTP module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "rest-api",
+    "http",
+    "backend"
+  ],
+  "author": "",
+  "license": "MIT"
+}
